@@ -14,7 +14,6 @@ A lightweight WebUI Forge / A1111 script that randomly selects artist tags from 
 - Automatic weight normalization (caps total at 2.0)
 - Deterministic results via seed control
 - Works in **txt2img** and **img2img**
-- No prompt syntax hacks or wildcards required
 
 ---
 
