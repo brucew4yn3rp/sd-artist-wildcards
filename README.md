@@ -40,7 +40,7 @@ A lightweight WebUI Forge / A1111 script that randomly selects artist tags from 
 
 - **Artist Tags**  
 Comma-separated list of artists  
-    - The file `Danbooru Artists.xlsx` contains a comprehensive lists of artists you can use to get started
+    - The file `Danbooru Artists.xlsx` contains a comprehensive list of artists you can use to get started. There are 16,960 artist tags, many of which are not recognized by popular models, so I'd recommend paring this list down to your favorite ones.
 
 - **Min Artists / Max Artists**  
 Controls how many artists are randomly selected.
